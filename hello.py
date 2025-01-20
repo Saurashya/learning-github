@@ -6,6 +6,7 @@ def about():
 # Minoree
 
 #Pranjal
+print("hello from pranjal ")
 
 #safal
 
