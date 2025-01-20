@@ -1,6 +1,4 @@
 print("Hello World")
 
-def Text():
-    print("This is a text function")
-
-Text()
+def about():
+    print("Hello from Git repository.")
