@@ -9,6 +9,6 @@ print("May thee be shhred by love and life")
 print("hello from pranjal ")
 
 #safal
-
+print("Maybe the coding was the friends we made along the way")
 
 #shrawan
