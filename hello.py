@@ -8,6 +8,6 @@ def about():
 #Pranjal
 
 #safal
-
+print("Maybe the coding was the friends we made along the way")
 
 #shrawan
