@@ -6,6 +6,7 @@ def about():
 # Minoree
 print("May thee be shhred by love and life")
 #Pranjal
+print("hello from pranjal ")
 
 #safal
 
